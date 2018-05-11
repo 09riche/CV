@@ -1,6 +1,8 @@
-## Your Name
+## Nick Richardson
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm a zealous Full Stack Junior Developer, a recent graduate of the Makers Academy, looking for a role in which I can continue to extend and apply my coding and production skills, while learning more (ideally) about natural language processing, machine learning and the industrial internet of things. 
+
+Before venturing into the world of tech I spent the best part of a decade working as a magazine editor, mostly at the London Review of Books, where I wrote, edited and commissioned articles, as well as managing the editorial team. I left the LRB to manage a start-up called Flier Group – a security consultancy specialising in drone-based technologies – through incubation. At FG I realised I didn't just want to be selling tech and writing about it – I wanted to be making it! 
 
 ## Skills
 
