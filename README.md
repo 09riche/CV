@@ -2,7 +2,7 @@
 
 [LinkedIn](http://www.linkedin.com/in/nick-richardson-4473b6136/)
 
-I'm a zealous **Full Stack Junior Developer**, a recent graduate of the Makers Academy, looking for a role in which I can continue to extend and apply my coding and production skills while learning more (ideally) about natural language processing, artificial intelligence and the industrial internet of things. 
+I'm an energetic and ambitious **Full Stack Junior Developer**, a recent graduate of the Makers Academy, looking for a role in which I can continue to extend and apply my coding and production skills while learning more (ideally) about natural language processing, machine learning and cybersecurity. 
 
 Before venturing into the world of tech I spent the best part of a decade working as a magazine editor, mostly at the [*London Review of Books*](http://www.lrb.co.uk/), where I wrote, edited and commissioned articles, as well as managing the editorial team. I left the *LRB* to manage a start-up called [Flier Group](http://fliergroupsolutions.com/) – a security consultancy specialising in drone-based technologies – through incubation. At FG I realised I didn't just want to be selling tech, I wanted to be making it. 
 
@@ -31,6 +31,7 @@ A 16-week intensive development bootcamp, emphasising:
 
 #### Oxford University, Exeter College (October 2004-July 2008)
 - MA Philosophy and Modern Languages (French) (Hons), II.1
+- Specialised in Logic and the Philosophy of Language
 
 #### Other Qualifications
 - PRINCE2 Project Management Certification (Foundation & Practitioner)
