@@ -12,7 +12,7 @@ TK
 ## Additional Skills
 
 #### Writing
-I contributed many articles to the *LRB* on a wide range of subjects, including asteroids, tunnel boring, cat burglary, Schoenberg, the trial of Amanda Knox and Scythian art. I've also written in a freelance capacity for *Harper's*, *New York Magazine*, the *Guardian* and a number of music magazines, and contributed a chapter to a book about black metal (the Scandinavian music subgenre, not an actual metal). My writing experience hasn't been limited to journalistic work: at FG I composed an entire suite of marketing materials, including web copy, business plan and pitch deck. Writing professionally has prepared me well for writing clear, elegant code and given me a keen eye for bugs. 
+I contributed many articles to the *LRB* on a wide range of subjects, including asteroids, tunnel boring, cat burglary, Schoenberg, the trial of Amanda Knox and Scythian art. I've also written in a freelance capacity for *Harper's*, *New York Magazine*, the *Guardian* and a number of music magazines, and contributed a chapter to a book about black metal (the Scandinavian music subgenre, not an actual metal). My writing experience hasn't been limited to journalistic work: at FG I composed an entire suite of marketing materials, including web copy, business plan and pitch deck. Writing professionally has prepared me well for writing clear, elegant code while editing the work of others has given me a keen eye for bugs. 
 
 #### Management
 At the *LRB* I managed the editorial team of ten, including editors, typesetters and fact-checkers. I drafted press schedules and liaised with outside writers and members of other departments to ensure the magazine was ready for publication before deadline, and I maintained the editorial department’s databases of writers and pieces awaiting publication. At FG I was responsible for seeing the company through incubation to launch – conducting market research, arranging and leading meetings with outside consultants, managing the initial marketing budget, assembling the marketing suite and seeking investment. My management experience has helped me take an overview of the software production process and to coordinate teamwork on larger-scale projects.
@@ -35,7 +35,11 @@ A 16-week intensive development bootcamp, emphasising:
 
 #### Other Qualifications
 - PRINCE2 Project Management Certification (Foundation & Practitioner)
-- Highly proficient in spoken and written French; conversational Japanese. 
+- Highly proficient in spoken and written French; conversational Japanese.
+
+#### Potentially Salient Pastimes
+- I am a music-maker: I play the piano (well), the cello (less well) and the drums in a psychedelic punk band. I also produce electronic music using Logic Pro X and a lot of Native Instruments plug-ins.
+- I am an enthusiastic gardener fond of ancient medicinal plants.
 
 ## Experience
 **Flier Group** (August 2017-April 2018)
