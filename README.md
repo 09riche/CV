@@ -4,7 +4,7 @@
 
 I'm an ambitious **Full Stack Junior Developer**, recently graduated from Makers Academy, looking for a role in which I can extend my coding and production skills while working with great people on a product I'm excited by. I love JavaScript, Node and React, and I'm keen to learn more about AI and natural language processing.
 
-Before venturing into the world of tech I spent 8 years as a magazine editor, mostly at the [*London Review of Books*](http://www.lrb.co.uk/). I left the *LRB* to manage a start-up called [Flier Group](http://fliergroupsolutions.com/), a security consultancy specialising in drone-based technologies: it was at FG that I realised I didn't want to be selling tech, I wanted to be making it. 
+Before venturing into the world of tech I spent 8 years as a magazine editor, mostly at the [*London Review of Books*](http://www.lrb.co.uk/). I left the *LRB* to manage a start-up called [Flier Group](http://fliergroupsolutions.com/), a security consultancy specialising in drone-based technologies: at FG I realised I'd rather be making tech than selling it.
 
 ## Projects
 
