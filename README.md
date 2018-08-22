@@ -39,7 +39,7 @@ At the *LRB* I managed the editorial team of ten, including editors, typesetters
 - Highly proficient in spoken and written French; conversational Japanese.
 
 #### Pastimes
-- I am a music-maker: I play the piano (well), the cello (less well) and the drums in a psychedelic punk band. I also produce electronic music using Logic Pro X and a lot of Native Instruments plug-ins.
+- I am a music-maker: I play the piano (well), the cello (less well) and the drums in a rock band. I also produce electronic music using Logic Pro X and a lot of Native Instruments plug-ins.
 - I am an enthusiastic gardener fond of ancient medicinal plants.
 
 ## Experience
