@@ -2,7 +2,7 @@
 
 [LinkedIn](http://www.linkedin.com/in/nick-richardson-4473b6136/)
 
-I'm an ambitious **Full Stack Junior Developer**, recently graduated from Makers Academy, looking for a role in which I can extend my coding and production skills while working with great people on a product I'm excited by. I love JavaScript, Node and React, and I'm keen to learn more about AI and natural language processing.
+I'm an ambitious **Full Stack Junior Developer**, recently graduated from Makers Academy, looking for a role in which I can extend my coding and production skills while working with great people on a product I'm excited by. I love JavaScript, Node and React, and I'm keen to learn more about machine learning and natural language processing.
 
 Before venturing into the world of tech I spent 8 years as a magazine editor, mostly at the [*London Review of Books*](http://www.lrb.co.uk/). I left the *LRB* to manage a start-up called [Flier Group](http://fliergroupsolutions.com/), a security consultancy specialising in drone-based technologies: at FG I realised I'd rather be making tech than selling it.
 
@@ -36,7 +36,7 @@ At the *LRB* I managed the editorial team of ten, including editors, typesetters
 
 #### Other Qualifications
 - PRINCE2 Project Management Certification (Foundation & Practitioner)
-- Highly proficient in spoken and written French; conversational Japanese.
+- Highly proficient in spoken and written French; learning Japanese.
 
 #### Pastimes
 - I am a music-maker: I play the piano (well), the cello (less well) and the drums in a rock band. I also produce electronic music using Logic Pro X and a lot of Native Instruments plug-ins.
