@@ -43,14 +43,14 @@ At the *LRB* I managed the editorial team of ten, including editors, typesetters
 - I am an enthusiastic gardener fond of ancient medicinal plants.
 
 ## Experience
-**Flier Group** (August 2017-April 2018)
-* Chief Operating Officer
+**Flier Group** (August 2017-April 2018)    
+*Chief Operating Officer*
 
 **London Review of Books** (September 2010-August 2017)    
-* Managing Editor
+*Managing Editor*
 
 **The Wire** (September 2009-September 2010)   
-* Editorial Assistant 
+*Editorial Assistant* 
 
 **Blue Tutors** (August 2008-September 2009)   
-* Private Tutor
+*Private Tutor*
