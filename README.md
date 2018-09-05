@@ -1,6 +1,6 @@
 # Nick Richardson
 
-[LinkedIn](http://www.linkedin.com/in/nick-richardson-4473b6136/)
+Email: nicholasjohnrichardson@gmail.com | Phone: 07834 348 935 | [LinkedIn](http://www.linkedin.com/in/nick-richardson-4473b6136/)
 
 I'm an ambitious **Full Stack Junior Developer**, recently graduated from Makers Academy, looking for a role in which I can extend my coding and production skills while working with great people on a product I'm excited by. I love JavaScript, Node and React, and I'm keen to learn more about machine learning and natural language processing.
 
@@ -44,13 +44,13 @@ At the *LRB* I managed the editorial team of ten, including editors, typesetters
 
 ## Experience
 **Flier Group** (August 2017-April 2018)
-*Chief Operating Officer*
+* Chief Operating Officer
 
 **London Review of Books** (September 2010-August 2017)    
-*Managing Editor*  
+* Managing Editor
 
 **The Wire** (September 2009-September 2010)   
-*Editorial Assistant* 
+* Editorial Assistant 
 
 **Blue Tutors** (August 2008-September 2009)   
-*Private Tutor*
+* Private Tutor
